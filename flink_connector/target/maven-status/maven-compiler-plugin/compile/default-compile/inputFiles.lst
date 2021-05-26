@@ -1,0 +1,6 @@
+/mnt/c/Users/mptho/PycharmProjects/amazon-timestream-tools/integrations/flink_connector/src/main/java/com/amazonaws/services/timestream/TimestreamInitializer.java
+/mnt/c/Users/mptho/PycharmProjects/amazon-timestream-tools/integrations/flink_connector/src/main/java/com/amazonaws/services/timestream/TimestreamPoint.java
+/mnt/c/Users/mptho/PycharmProjects/amazon-timestream-tools/integrations/flink_connector/src/main/java/com/amazonaws/services/kinesisanalytics/StreamingJob.java
+/mnt/c/Users/mptho/PycharmProjects/amazon-timestream-tools/integrations/flink_connector/src/main/java/com/amazonaws/services/timestream/TimestreamSink.java
+/mnt/c/Users/mptho/PycharmProjects/amazon-timestream-tools/integrations/flink_connector/src/main/java/com/amazonaws/services/kinesisanalytics/utils/ParameterToolUtils.java
+/mnt/c/Users/mptho/PycharmProjects/amazon-timestream-tools/integrations/flink_connector/src/main/java/com/amazonaws/services/kinesisanalytics/operators/JsonToTimestreamPayloadFn.java
